@@ -5,7 +5,7 @@ Spring Framework와 MyBatis를 백엔드에, JSP를 프론트엔드로 사용하
 
 ## 🛠️ 기술 스택
 
-### Backend
+### 백엔드
 - Java 17
 - Spring Framework (Spring MVC)
 - MyBatis
@@ -13,16 +13,16 @@ Spring Framework와 MyBatis를 백엔드에, JSP를 프론트엔드로 사용하
 - Gradle
 - Lombok
 
-### Frontend
+### 프론트엔드
 - JSP
 - HTML5 / CSS3 / Bootstrap
 - JavaScript
 
-### Database
+### 데이터베이스
 - MySQL 8..017
 - ERD 기반 테이블 구성 및 외래키 제약조건 적용
 
-### Infra
+### 서버 및 버전관리
 - Tomcat
 - GitHub / Git
 
